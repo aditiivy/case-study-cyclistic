@@ -23,3 +23,26 @@ Key tasks
 Deliverable
 • A clear statement of the business task
 Determine the differences between annual members and casual riders and which marketing strategy to pursue to increase annual members.
+
+ The data set is loaded and analyzed using R. Explaratory data analysis is done to answer questions.
+ Insights are shared with stakeholders using Tableau Dashboard and finally action is taken on our findings.
+
+
+ Actions:
+
+● What is your final conclusion based on your analysis?
+
+Ans: Cyclistic has an opportunity to convert casual riders into annual members through targeted  marketing. Casual riders currently utilize bike sharing more frequently than annual members, suggesting they are already engaged with the service.
+
+● How could your team and business apply your insights?
+
+Ans: Implementing a focused digital marketing campaign aimed at frequent casual riders. Emphasizing the advantages of membership, especially for longer rides, to encourage conversion from casual to annual membership.
+
+● What next steps would you or your stakeholders take based on your findings?
+
+Ans: Conduct a deeper analysis specifically targeting long-term casual riders to refine the campaign strategy further. Despite this, the current data supports moving forward with the digital marketing initiative.
+
+● Is there additional data you could use to expand on your findings?
+
+Ans: To enhance findings, consider acquiring demographic, climate, financial, and historical marketing campaign data, including ROI metrics. These insights can provide a comprehensive understanding and potentially optimize the effectiveness of the campaign.
+

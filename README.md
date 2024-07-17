@@ -26,6 +26,7 @@ Determine the differences between annual members and casual riders and which mar
 
  The data set is loaded and analyzed using R. Explaratory data analysis is done to answer questions.
  Insights are shared with stakeholders using Tableau Dashboard and finally action is taken on our findings.
+ Here's the link: https://public.tableau.com/views/CityscapedashboardCaseStudy/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
  Actions:

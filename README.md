@@ -1,4 +1,4 @@
-# case-study-cyclistic
+# CASE STUDY CYCLISTIC
 
 How Does A Bike-Share Navigate Speedy Success
 Background context on the case study:
